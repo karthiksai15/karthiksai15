@@ -1,78 +1,40 @@
-# Hi, I'm Mopur Karthik Sai 👋
+# Mopur Karthik Sai
 
-### Backend & Distributed Systems Developer
+Backend-focused Computer Science undergraduate interested in distributed systems, scalable backend architectures, and real-time processing systems.
 
-Computer Science undergraduate focused on building scalable backend systems, distributed applications, and event-driven architectures using Spring Boot, Kafka, Redis, PostgreSQL, Docker, and GoLang.
+Currently working with:
+Java, Spring Boot, Kafka, Redis, PostgreSQL, Docker, GoLang, React, and FastAPI.
 
----
-
-## 🚀 Tech Stack
-
-### Languages
-
-* Java
-* GoLang
-* Python
-* SQL
-* TypeScript
-
-### Backend & Systems
-
-* Spring Boot
-* Apache Kafka
-* FastAPI
-* REST APIs
-* Microservices
-* JWT Authentication
-
-### Databases & Caching
-
-* PostgreSQL
-* MySQL
-* Redis
-
-### Cloud & DevOps
-
-* Docker
-* Git
-* CI/CD Basics
-* AWS (Basic)
-
-### Concepts
-
-* Distributed Systems
-* Event-Driven Architecture
-* Real-Time Systems
-* Multithreading
-* System Design
-
----
-
-## 📌 Featured Projects
+## Projects
 
 ### Smart Round-Off Micro-Investment Platform
 
-Scalable fintech microservices platform using Spring Boot, Kafka, Redis, PostgreSQL, and Docker.
+Distributed fintech platform built using Spring Boot microservices, Apache Kafka, Redis, PostgreSQL, and Docker. Includes asynchronous transaction workflows, fraud detection pipelines, retries, and DLQ handling.
 
 ### Secure Authentication & Session Management Platform
 
-Full-stack authentication system using GoLang, React, TypeScript, Redis, PostgreSQL, and Docker.
+Authentication platform built using GoLang, React, TypeScript, Redis, PostgreSQL, and Docker with JWT-based session management and protected API workflows.
 
 ### Real-Time Fraud Detection System
 
-ML-powered fraud detection system with FastAPI and Isolation Forest for real-time transaction monitoring.
+FastAPI-based fraud detection service using Isolation Forest for anomaly detection in transaction streams.
 
----
+## Technical Interests
 
-## 📈 Problem Solving
+* Backend Development
+* Distributed Systems
+* Event-Driven Architecture
+* System Design
+* Real-Time Processing
+* Scalable Systems
+
+## Problem Solving
 
 * 150+ problems solved on LeetCode
 * Strong foundation in Data Structures & Algorithms
 
----
+## Links
 
-## 📫 Connect With Me
-
-* LinkedIn
 * GitHub
-* Email: [karthiksai.m15@gmail.com](mailto:karthiksai.m15@gmail.com)
+* LinkedIn
+* HackerRank: https://www.hackerrank.com/profile/karthiksai_m15
