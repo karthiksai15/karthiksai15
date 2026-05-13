@@ -35,6 +35,5 @@ FastAPI-based fraud detection service using Isolation Forest for anomaly detecti
 
 ## Links
 
-* GitHub
-* LinkedIn
-* HackerRank: https://www.hackerrank.com/profile/karthiksai_m15
+* LinkedIn : https://www.linkedin.com/in/mopur-karthiksai-gb2023006582/
+
