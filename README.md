@@ -37,45 +37,60 @@ Become a Software Development Engineer (Backend / Distributed Systems)
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,sql,c" />
+<img src="https://skillicons.dev/icons?i=java" height="40"/> Java  
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python  
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/> JavaScript  
+<img src="https://skillicons.dev/icons?i=sql" height="40"/> SQL  
+<img src="https://skillicons.dev/icons?i=c" height="40"/> C  
 </p>
 
 ---
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React.js  
+<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML  
+<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS  
 </p>
 
 ---
 
 ### Backend
 <p>
-<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=spring" height="40"/> Spring Boot  
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI  
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
 </p>
 
 ---
 
 ### Databases & Cache
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL  
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL  
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
+<img src="https://skillicons.dev/icons?i=redis" height="40"/> Redis  
 </p>
 
 ---
 
 ### Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
+<img src="https://skillicons.dev/icons?i=aws" height="40"/> AWS  
+<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker  
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
+<img src="https://skillicons.dev/icons?i=linux" height="40"/> Linux  
 </p>
 
 ---
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=postman,idea,vscode,maven,github" />
+<img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
+<img src="https://skillicons.dev/icons?i=intellij" height="40"/> IntelliJ IDEA  
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code  
+<img src="https://skillicons.dev/icons?i=maven" height="40"/> Maven  
 </p>
-
----
 
 ## 📌 Featured Project
 
