@@ -136,27 +136,28 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
-<p>
+<p align="center">
+
 <a href="mailto:karthiksai.m15@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mopur-karthiksai-gb2023006582">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/karthiksai15">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/GB2023006582/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
 </p>
 
----
-
-## 🌐 Links  
-
-- GitHub: https://github.com/karthiksai15  
-- LinkedIn: https://linkedin.com/in/mopur-karthiksai-gb2023006582  
-- Email: karthiksai.m15@gmail.com  
-
----
 
 ## 🎯 Summary  
 
