@@ -20,13 +20,13 @@
 💻 Backend Development | Microservices | System Design | Distributed Systems  
 
 🌱 Currently exploring:
-- Spring Boot Microservices
-- Event-Driven Architecture (Kafka)
-- Redis Caching Systems
-- PostgreSQL & MySQL Design
-- Docker & AWS Deployment
-- System Design Fundamentals
-- LLM Applications & MCP Architecture
+- Spring Boot Microservices  
+- Event-Driven Architecture (Kafka)  
+- Redis Caching Systems  
+- PostgreSQL & MySQL Design  
+- Docker & AWS Deployment  
+- System Design Fundamentals  
+- LLM Applications & MCP Architecture  
 
 🎯 Goal:
 Become a Software Development Engineer (Backend / Distributed Systems)
@@ -86,31 +86,11 @@ Become a Software Development Engineer (Backend / Distributed Systems)
 
 ### Tools
 <p>
-<img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
-<img src="https://skillicons.dev/icons?i=intellij" height="40"/> IntelliJ IDEA  
+<img src="https://skillicons.dev/icons?i=idea" height="40"/> IntelliJ IDEA  
 <img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code  
+<img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
 <img src="https://skillicons.dev/icons?i=maven" height="40"/> Maven  
 </p>
-
-## 📌 Featured Project
-
-### 🗳️ Online Voting System
-
-A secure full-stack web application built using modern backend architecture.
-
-✔ Spring Boot  
-✔ React  
-✔ MySQL  
-✔ JWT Authentication  
-✔ AWS Deployment  
-
-### Features:
-- User Authentication & Authorization  
-- Role-Based Access Control  
-- Election Management System  
-- Candidate Management  
-- Secure Voting System  
-- Duplicate Vote Prevention  
 
 ---
 
@@ -172,5 +152,5 @@ A secure full-stack web application built using modern backend architecture.
 ---
 
 <p align="center">
-⭐ Building scalable backend systems | Distributed Systems | Always Learning 🚀
+⭐ Backend Systems | Distributed Architecture | Always Learning 🚀
 </p>
