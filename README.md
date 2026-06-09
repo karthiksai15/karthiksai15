@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Karthik+Sai;Backend+Engineer+%7C+Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;AI+%2F+GenAI+Enthusiast" />
 </p>
 
-<h1 align="center">Karthik Sai</h1>
+<h1 align="center">Mopur Karthik Sai</h1>
 
 <h3 align="center">
 Backend Engineer | Distributed Systems | AI Systems Developer
