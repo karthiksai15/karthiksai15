@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=karthiksai15&style=for-the-badge" /> 
 </p> 
 
---- 
+---
 
 ## 🚀 About Me  
 
@@ -29,7 +29,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 
 🎯 Goal: SDE (Backend + AI Systems Engineer)  
 
---- 
+---
 
 ## 🛠️ Tech Stack  
 
@@ -41,7 +41,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 <img src="https://skillicons.dev/icons?i=c" height="28"/> C  
 </p>
 
---- 
+---
 
 ### Backend Technologies  
 <p>
@@ -52,7 +52,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 
 **Core Concepts:** REST APIs • Microservices • JWT Authentication • Event-Driven Architecture  
 
---- 
+---
 
 ### Databases & Caching  
 <p>
@@ -62,7 +62,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 <img src="https://skillicons.dev/icons?i=redis" height="28"/> Redis  
 </p>
 
---- 
+---
 
 ### Cloud & DevOps  
 <p>
@@ -72,7 +72,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 <img src="https://skillicons.dev/icons?i=linux" height="28"/> Linux  
 </p>
 
---- 
+---
 
 ### AI / GenAI  
 <p>
@@ -83,7 +83,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 
 **GenAI Skills:** RAG Systems • LLM Applications • LangChain • OpenAI API • MCP Architecture • Prompt Engineering • AI Agents  
 
---- 
+---
 
 ### Developer Tools  
 <p>
@@ -93,7 +93,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 <img src="https://skillicons.dev/icons?i=maven" height="28"/> Maven  
 </p>
 
---- 
+---
 
 ## 📊 GitHub Stats  
 
@@ -102,7 +102,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
 
---- 
+---
 
 ## 🔥 GitHub Streak  
 
@@ -110,7 +110,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
   <img src="https://streak-stats.demolab.com?user=karthiksai15&theme=tokyonight" />
 </p>
 
---- 
+---
 
 ## 📈 Contribution Graph  
 
@@ -118,19 +118,23 @@ Backend Engineer focused on building scalable distributed systems using Spring B
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksai15&theme=tokyo-night" />
 </p>
 
---- 
+---
 
 ## 🧩 Coding Profiles  
 
-- 🟠 LeetCode: https://leetcode.com/u/GB2023006582/  
-- 🔵 GitHub: https://github.com/karthiksai15  
-
-- 💡 LeetCode Stats:  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/GB2023006582?theme=dark&font=Karma" />
+
+<a href="https://leetcode.com/u/GB2023006582/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karthiksai15">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
---- 
+---
 
 ## 🌐 Connect With Me  
 
@@ -144,7 +148,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 </a>
 </p>
 
---- 
+---
 
 ## 🌐 Links  
 
@@ -152,7 +156,7 @@ Backend Engineer focused on building scalable distributed systems using Spring B
 - LinkedIn: https://linkedin.com/in/mopur-karthiksai-gb2023006582  
 - Email: karthiksai.m15@gmail.com  
 
---- 
+---
 
 ## 🎯 Summary  
 
