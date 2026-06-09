@@ -4,7 +4,7 @@
 
 <h1 align="center">Karthik Sai</h1>
 
-<h3 align="center">Backend Engineer | AI + Distributed Systems Developer</h3>
+<h3 align="center">Backend Engineer | Distributed Systems | AI Systems Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karthiksai15&style=for-the-badge" />
@@ -14,12 +14,12 @@
 
 ## 🚀 About Me
 
+Backend Engineer focused on building scalable distributed systems using Spring Boot, Kafka, Redis, and AWS. Passionate about system design, event-driven architectures, and AI-powered backend applications (RAG, LLM agents, MCP systems).
+
 🎓 Computer Science & Engineering Undergraduate (GITAM, Bengaluru)  
 📊 CGPA: 9.22  
 
-💻 Backend Systems | Microservices | AI Systems | Distributed Architecture  
-
-🌱 Currently learning:
+🌱 Currently Learning:
 - Spring Boot Microservices  
 - Kafka Event-Driven Systems  
 - Redis & Database Design  
@@ -27,7 +27,7 @@
 - AI / GenAI (RAG, LLMs, Agents, MCP)  
 - System Design Fundamentals  
 
-🎯 Goal:
+🎯 Goal:  
 SDE (Backend + AI Systems Engineer)
 
 ---
@@ -44,16 +44,6 @@ SDE (Backend + AI Systems Engineer)
 
 ---
 
-### Frontend Technologies
-<p>
-<img src="https://skillicons.dev/icons?i=react" height="28"/> React.js  
-<img src="https://skillicons.dev/icons?i=javascript" height="28"/> JavaScript  
-<img src="https://skillicons.dev/icons?i=html" height="28"/> HTML  
-<img src="https://skillicons.dev/icons?i=css" height="28"/> CSS  
-</p>
-
----
-
 ### Backend Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=spring" height="28"/> Spring Boot  
@@ -61,7 +51,7 @@ SDE (Backend + AI Systems Engineer)
 <img src="https://skillicons.dev/icons?i=nodejs" height="28"/> Node.js  
 </p>
 
-**Concepts:** REST APIs • Microservices • JWT Authentication • Event-Driven Systems
+**Core Concepts:** REST APIs • Microservices • JWT Authentication • Event-Driven Architecture
 
 ---
 
@@ -132,12 +122,16 @@ RAG Systems • LLM Applications • LangChain • OpenAI API • MCP Architectu
 
 ---
 
-## 🏆 Coding Profiles
+## 🧩 Coding Profiles
 
-<p>
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+- 🟠 LeetCode: :contentReference[oaicite:0]{index=0}  
+  https://leetcode.com/u/GB2023006582/
+
+- 🔵 GitHub: https://github.com/karthiksai15  
+
+- 💡 LeetCode Stats:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/GB2023006582?theme=dark&font=Karma" />
 </p>
 
 ---
@@ -156,9 +150,18 @@ RAG Systems • LLM Applications • LangChain • OpenAI API • MCP Architectu
 
 ---
 
+## 🌐 Links
+
+- GitHub: https://github.com/karthiksai15  
+- LinkedIn: https://linkedin.com/in/mopur-karthiksai-gb2023006582  
+- Email: karthiksai.m15@gmail.com  
+
+---
+
 ## 🎯 Summary
 
 ⭐ Backend Systems Developer  
-⭐ AI / GenAI Enthusiast  
-⭐ Distributed Systems Learner  
+⭐ Distributed Systems Enthusiast  
+⭐ AI / GenAI Builder  
+⭐ System Design Learner  
 ⭐ Always Building & Improving 🚀
