@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Karthik+Sai;Backend+Engineer+|+Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;Distributed+Systems+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Karthik+Sai;Backend+Engineer+|+Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;AI+%2F+GenAI+%7C+Distributed+Systems" />
 </p>
 
 <h1 align="center">Karthik Sai</h1>
 
-<h3 align="center">Backend Engineer | Distributed Systems | Software Developer</h3>
+<h3 align="center">Backend Engineer | AI Enthusiast | Distributed Systems Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karthiksai15&style=for-the-badge" />
@@ -17,7 +17,7 @@
 🎓 Computer Science & Engineering Undergraduate (GITAM, Bengaluru)  
 📊 CGPA: 9.22  
 
-💻 Backend Development | Microservices | System Design | Distributed Systems  
+💻 Backend Development | Microservices | AI Systems | Distributed Systems  
 
 🌱 Currently exploring:
 - Spring Boot Microservices  
@@ -25,71 +25,86 @@
 - Redis Caching Systems  
 - PostgreSQL & MySQL Design  
 - Docker & AWS Deployment  
+- AI / GenAI Systems (LLMs, RAG, Agents)  
 - System Design Fundamentals  
-- LLM Applications & MCP Architecture  
+- MCP Architecture  
 
 🎯 Goal:
-Become a Software Development Engineer (Backend / Distributed Systems)
+Become a Software Development Engineer (Backend + AI Systems)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java" height="40"/> Java  
-<img src="https://skillicons.dev/icons?i=python" height="40"/> Python  
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/> JavaScript  
-<img src="https://skillicons.dev/icons?i=sql" height="40"/> SQL  
-<img src="https://skillicons.dev/icons?i=c" height="40"/> C  
+<img src="https://skillicons.dev/icons?i=java" height="30"/>
+<img src="https://skillicons.dev/icons?i=sql" height="30"/>
+<img src="https://skillicons.dev/icons?i=python" height="30"/>
+<img src="https://skillicons.dev/icons?i=c" height="30"/>
 </p>
 
 ---
 
-### Frontend
+### Frontend Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=react" height="40"/> React.js  
-<img src="https://skillicons.dev/icons?i=html" height="40"/> HTML  
-<img src="https://skillicons.dev/icons?i=css" height="40"/> CSS  
+<img src="https://skillicons.dev/icons?i=react" height="30"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="30"/>
+<img src="https://skillicons.dev/icons?i=html" height="30"/>
+<img src="https://skillicons.dev/icons?i=css" height="30"/>
 </p>
 
 ---
 
-### Backend
+### Backend Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=spring" height="40"/> Spring Boot  
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> FastAPI  
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
+<img src="https://skillicons.dev/icons?i=spring" height="30"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="30"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="30"/>
 </p>
+
+**Concepts:** REST APIs • Microservices • JWT Authentication • Event-Driven Systems
 
 ---
 
-### Databases & Cache
+### Databases & Caching
 <p>
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL  
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL  
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
-<img src="https://skillicons.dev/icons?i=redis" height="40"/> Redis  
+<img src="https://skillicons.dev/icons?i=postgres" height="30"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="30"/>
+<img src="https://skillicons.dev/icons?i=mongodb" height="30"/>
+<img src="https://skillicons.dev/icons?i=redis" height="30"/>
 </p>
 
 ---
 
 ### Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=aws" height="40"/> AWS  
-<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker  
-<img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
-<img src="https://skillicons.dev/icons?i=linux" height="40"/> Linux  
+<img src="https://skillicons.dev/icons?i=aws" height="30"/>
+<img src="https://skillicons.dev/icons?i=docker" height="30"/>
+<img src="https://skillicons.dev/icons?i=git" height="30"/>
+<img src="https://skillicons.dev/icons?i=linux" height="30"/>
 </p>
 
 ---
 
-### Tools
+### AI / GenAI & Machine Learning
 <p>
-<img src="https://skillicons.dev/icons?i=idea" height="40"/> IntelliJ IDEA  
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/> VS Code  
-<img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
-<img src="https://skillicons.dev/icons?i=maven" height="40"/> Maven  
+<img src="https://skillicons.dev/icons?i=python" height="30"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="30"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="30"/>
+</p>
+
+**GenAI Skills:**
+RAG Systems • LLM Applications • LangChain • OpenAI API • MCP Architecture • Prompt Engineering • AI Agents
+
+---
+
+### Developer Tools
+<p>
+<img src="https://skillicons.dev/icons?i=idea" height="30"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="30"/>
+<img src="https://skillicons.dev/icons?i=postman" height="30"/>
+<img src="https://skillicons.dev/icons?i=maven" height="30"/>
 </p>
 
 ---
@@ -97,8 +112,8 @@ Become a Software Development Engineer (Backend / Distributed Systems)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karthiksai15&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=karthiksai15&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -152,5 +167,5 @@ Become a Software Development Engineer (Backend / Distributed Systems)
 ---
 
 <p align="center">
-⭐ Backend Systems | Distributed Architecture | Always Learning 🚀
+⭐ Backend Systems • AI Engineering • Distributed Architecture • Always Learning 🚀
 </p>
