@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Karthik+Sai;Backend+Engineer+|+Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;Distributed+Systems+Enthusiast" />
 </p>
 
----
-
 <h1 align="center">Karthik Sai</h1>
 
 <h3 align="center">Backend Engineer | Distributed Systems | Software Developer</h3>
@@ -16,51 +14,96 @@
 
 ## 🚀 About Me
 
-<p align="center">
+🎓 Computer Science & Engineering Undergraduate (GITAM, Bengaluru)  
+📊 CGPA: 9.22  
 
-🎓 CSE Undergraduate @ GITAM (CGPA: 9.22)
-💻 Backend Development | Microservices | System Design
-☁️ AWS | Docker | Distributed Systems
-🧠 LLM Applications | MCP Architecture | AI Systems
+💻 Backend Development | Microservices | System Design | Distributed Systems  
 
-</p>
+🌱 Currently exploring:
+- Spring Boot Microservices
+- Event-Driven Architecture (Kafka)
+- Redis Caching Systems
+- PostgreSQL & MySQL Design
+- Docker & AWS Deployment
+- System Design Fundamentals
+- LLM Applications & MCP Architecture
+
+🎯 Goal:
+Become a Software Development Engineer (Backend / Distributed Systems)
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,html,css" />
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,sql,c" />
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,aws,git,linux" />
+---
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+---
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs" />
+</p>
+
+---
+
+### Databases & Cache
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+---
+
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
+</p>
+
+---
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=postman,idea,vscode,maven,github" />
 </p>
 
 ---
 
 ## 📌 Featured Project
 
-### 💰 Smart Round-Off Micro-Investment Platform
+### 🗳️ Online Voting System
 
-<p align="center">
-Spring Boot • Kafka • Redis • Docker • AWS • Microservices
-</p>
+A secure full-stack web application built using modern backend architecture.
 
-✔ Built 7+ microservices architecture
-✔ Event-driven system using Apache Kafka
-✔ Redis caching for performance optimization
-✔ PostgreSQL for reliable transactions
-✔ ML-based fraud detection (FastAPI + Isolation Forest)
-✔ Dockerized + deployed on AWS
+✔ Spring Boot  
+✔ React  
+✔ MySQL  
+✔ JWT Authentication  
+✔ AWS Deployment  
+
+### Features:
+- User Authentication & Authorization  
+- Role-Based Access Control  
+- Election Management System  
+- Candidate Management  
+- Secure Voting System  
+- Duplicate Vote Prevention  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=karthiksai15&show_icons=true&theme=tokyonight"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=karthiksai15&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -68,7 +111,7 @@ Spring Boot • Kafka • Redis • Docker • AWS • Microservices
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karthiksai15&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=karthiksai15&theme=tokyonight" />
 </p>
 
 ---
@@ -76,38 +119,43 @@ Spring Boot • Kafka • Redis • Docker • AWS • Microservices
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksai15&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksai15&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🏆 Certifications
+## 🏆 Coding Profiles
 
-✔ Java Programming — Infosys Springboard
-✔ AWS Cloud Practitioner — Amazon (2026)
+<p>
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
+<p>
 <a href="mailto:karthiksai.m15@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karthiksai15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
 </p>
 
 ---
 
 <p align="center">
-⭐ Backend Systems | Microservices | Distributed Architecture | Always Building 🚀
+⭐ Building scalable backend systems | Distributed Systems | Always Learning 🚀
 </p>
