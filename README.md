@@ -1,24 +1,30 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img width="100%" src="YOUR_PIXEL_GIF_URL"/>
 
 # Mopur Karthik Sai
 
 ### Backend Engineer • Distributed Systems • AI Systems Developer
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;AI+%2F+GenAI+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Spring+Boot+Developer;Microservices+%7C+Kafka+%7C+Redis+%7C+AWS;AI+%2F+GenAI+Enthusiast;Building+Scalable+Backend+Platforms"/>
 </p>
 
 <p align="center">
 <a href="mailto:karthiksai.m15@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/mopur-karthiksai-gb2023006582">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="https://github.com/karthiksai15">
-<img src="https://img.shields.io/badge/GitHub-Profile-A855F7?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/GB2023006582/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
 
@@ -33,14 +39,14 @@
 
 # About
 
-Computer Science & Engineering undergraduate at **GITAM Bengaluru** with a strong focus on backend engineering, distributed systems, event-driven architectures, and AI-powered applications.
+Computer Science & Engineering Undergraduate at **GITAM Bengaluru** with a strong focus on backend engineering, distributed systems, event-driven architectures, and AI-powered applications.
 
-* CGPA: **9.22**
-* Spring Boot Microservices
-* Kafka & Redis
-* AWS & Cloud-Native Development
-* Distributed Systems
-* AI / GenAI Systems
+- CGPA: **9.22**
+- Spring Boot Microservices
+- Kafka & Redis
+- AWS & Cloud-Native Development
+- Distributed Systems
+- AI / GenAI Systems
 
 ---
 
@@ -67,12 +73,23 @@ Computer Science & Engineering undergraduate at **GITAM Bengaluru** with a stron
 # GitHub Analytics
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=karthiksai15&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=karthiksai15&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=karthiksai15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
 </p>
 
 ---
@@ -132,5 +149,3 @@ AI / GenAI Systems
 *"Building scalable backend systems today while engineering intelligent systems for tomorrow."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
