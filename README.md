@@ -134,3 +134,110 @@ Backend Engineer | Distributed Systems | AI Systems Developer
 <p align="center">
   <img src="https://raw.githubusercontent.com/karthiksai15/karthiksai15/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+
+# Coding Profiles
+
+
+
+<p align="center">
+
+
+
+<a href="https://leetcode.com/u/GB2023006582/">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+
+
+<a href="https://github.com/karthiksai15">
+
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+
+</p>
+
+
+
+---
+
+
+
+# GitHub Analytics
+
+
+
+<p align="center">
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karthiksai15&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthiksai15&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+
+</p>
+
+
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=karthiksai15&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+
+---
+
+
+
+# GitHub Trophies
+
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karthiksai15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1"/>
+
+</p>
+
+
+
+---
+
+
+
+# Contribution Activity
+
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthiksai15&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+
+
+---
+
+
+
+# Contribution Snake
+
+
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/karthiksai15/karthiksai15/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
