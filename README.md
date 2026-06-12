@@ -40,24 +40,33 @@
 
 </p>
 
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
 </div>
 
 ---
 
 # About
 
-Computer Science & Engineering Undergraduate at **GITAM Bengaluru** with a strong focus on backend engineering, distributed systems, event-driven architectures, and AI-powered applications.
+Computer Science & Engineering Undergraduate at **GITAM Bengaluru** focused on building scalable backend systems, distributed architectures, event-driven platforms, and AI-powered applications.
 
-- CGPA: **9.22**
-- Spring Boot Microservices
-- Kafka & Redis
-- AWS & Cloud-Native Development
-- Distributed Systems
-- AI / GenAI Systems
+| Profile    | Details                                                |
+| ---------- | ------------------------------------------------------ |
+| Education  | B.Tech Computer Science & Engineering                  |
+| University | GITAM Bengaluru                                        |
+| CGPA       | 9.22                                                   |
+| Focus      | Backend Engineering & AI Systems                       |
+| Core Stack | Spring Boot, Kafka, Redis, AWS                         |
+| Interests  | Distributed Systems, Event-Driven Architectures, GenAI |
+| Goal       | Software Development Engineer (Backend + AI Systems)   |
 
 ---
 
 # Technology Stack
+
+### Languages, Frameworks, Databases, Cloud & Tooling
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,redis,kafka,aws,docker,linux,git,maven,idea,vscode,postman,python,fastapi,c&perline=9"/>
@@ -77,7 +86,7 @@ Computer Science & Engineering Undergraduate at **GITAM Bengaluru** with a stron
 
 ---
 
-# GitHub Analytics
+# GitHub Analytics & Development Activity
 
 <p align="center">
 
@@ -114,11 +123,11 @@ Computer Science & Engineering Undergraduate at **GITAM Bengaluru** with a stron
 <p align="center">
 
 <a href="https://leetcode.com/u/GB2023006582/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/karthiksai15">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -129,7 +138,11 @@ Computer Science & Engineering Undergraduate at **GITAM Bengaluru** with a stron
 
 <div align="center">
 
-Backend Development • Distributed Systems • Event-Driven Architectures • Cloud Computing • AI / GenAI Systems
+Backend Development<br>
+Distributed Systems<br>
+Event-Driven Architectures<br>
+Cloud Computing<br>
+AI / GenAI Systems
 
 </div>
 
@@ -145,6 +158,8 @@ Backend Development • Distributed Systems • Event-Driven Architectures • C
 
 <div align="center">
 
-*"Building scalable backend systems today while engineering intelligent systems for tomorrow."*
+*"Designing reliable distributed systems and building intelligent software that scales."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,50:312e81,100:4c1d95"/>
