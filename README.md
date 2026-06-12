@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="YOUR_PIXEL_GIF_URL"/>
+<img width="100%" src="https://raw.githubusercontent.com/karthiksai15/karthiksai15/main/assets/banner.gif"/>
 
 # Mopur Karthik Sai
 
@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+
 <a href="mailto:karthiksai.m15@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -26,11 +27,17 @@
 <a href="https://leetcode.com/u/GB2023006582/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
+
 </p>
 
 <p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=karthiksai15&style=for-the-badge&color=7C3AED"/>
+
 <img src="https://img.shields.io/github/followers/karthiksai15?style=for-the-badge&color=6366F1"/>
+
+<img src="https://img.shields.io/github/stars/karthiksai15?style=for-the-badge&color=A855F7"/>
+
 </p>
 
 </div>
@@ -122,15 +129,7 @@ Computer Science & Engineering Undergraduate at **GITAM Bengaluru** with a stron
 
 <div align="center">
 
-Backend Development
-
-Distributed Systems
-
-Event-Driven Architectures
-
-Cloud Computing
-
-AI / GenAI Systems
+Backend Development • Distributed Systems • Event-Driven Architectures • Cloud Computing • AI / GenAI Systems
 
 </div>
 
