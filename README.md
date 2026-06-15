@@ -56,7 +56,7 @@ Computer Science & Engineering Undergraduate at **GITAM Bengaluru** focused on b
 | ---------- | ------------------------------------------------------ |
 | Education  | B.Tech Computer Science & Engineering                  |
 | University | GITAM Bengaluru                                        |
-| CGPA       | 9.22                                                   |
+| CGPA       | 9.21                                                   |
 | Focus      | Backend Engineering & AI Systems                       |
 | Core Stack | Spring Boot, Kafka, Redis, AWS                         |
 | Interests  | Distributed Systems, Event-Driven Architectures, GenAI |
